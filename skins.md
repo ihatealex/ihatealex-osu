@@ -1,19 +1,19 @@
 A personal archive of osu! skins.
 
-# [iHateAlex - Varv](https://github.com/ihatealex/ihatealex-osu/raw/main/skins/iHateAlex-Varv.osk)
+# [iHateAlex - Varv](https://ihatealex.s-ul.eu/H9TMr6HO)
 ![](images/aristia.webp)
 
-# [Khimchi - Freddie Benson](https://mega.nz/file/qIcg0aRQ#NFy3OpxjAyMeheigoblhoTkRDrJi9Q-Akg4lQ4OiXcw)
+# [Khimchi - Freddie Benson](https://ihatealex.s-ul.eu/RmJrSRRI)
 ![](images/freddiebenson.webp)
 
-# [C-3-ED - GreenTea](https://mega.nz/file/2VlXDC4Q#Gp3O7zNBynWZuGLkUYCuTVii_3elgBia1RfyWrD3Xjc)
+# [C-3-ED - GreenTea](https://ihatealex.s-ul.eu/iNn2omV9)
 ![](images/greentea.webp)
 
-# [nathanYOSHHAAA - Mai](https://mega.nz/file/DUMAzZjI#L0BurALqWblO9ZSRX41scvi1yNIlP0_vpYjVc6OQW48)
+# [nathanYOSHHAAA - Mai](https://ihatealex.s-ul.eu/HhTYCyH8)
 ![](images/mai.webp)
 
-# [Cozy](https://mega.nz/file/bAEWjZwa#y6QSR6nRw6_m0hMpSyP_hhAuTAjsft0pYSfXN1qsc2s)
+# [Cozy](https://ihatealex.s-ul.eu/uXVcduHd)
 ![](images/cozy.webp)
 
-# [Plasmo](https://mega.nz/file/vQM2RZBQ#GOsBuQ6oSonzKqtE8iOZrRp5xisfTGtGwfIKywxuvLY)
+# [Plasmo](https://ihatealex.s-ul.eu/9R4NsLbO)
 ![](images/plasmo.webp)
