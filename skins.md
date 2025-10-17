@@ -1,4 +1,8 @@
 A personal archive of osu! skins.
+<!-- 
+# []()
+![]()
+-->
 
 # [iHateAlex - Varv](https://ihatealex.s-ul.eu/H9TMr6HO)
 ![](images/aristia.webp)
@@ -17,3 +21,15 @@ A personal archive of osu! skins.
 
 # [Plasmo](https://ihatealex.s-ul.eu/9R4NsLbO)
 ![](images/plasmo.webp)
+
+# [azer -ite](https://ihatealex.s-ul.eu/CVvWuBb4)
+![](images/azer-ite.webp)
+
+# [azerite 1.2](https://ihatealex.s-ul.eu/BB4bBr9Q)
+![](images/osuplayer84.webp)
+
+# [azer8 midmight](https://ihatealex.s-ul.eu/KXlnO2YL)
+![](images/midnightv8.webp)
+
+# [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
+![](images/skinwithoutname.webp)
