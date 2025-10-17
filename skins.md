@@ -28,7 +28,7 @@ A personal archive of osu! skins.
 # [azerite 1.2](https://ihatealex.s-ul.eu/BB4bBr9Q)
 ![](images/osuplayer84.webp)
 
-# [azer8 midmight](https://ihatealex.s-ul.eu/KXlnO2YL)
+# [azer8 midnight](https://ihatealex.s-ul.eu/KXlnO2YL)
 ![](images/midnightv8.webp)
 
 # [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
