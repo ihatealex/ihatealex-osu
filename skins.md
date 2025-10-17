@@ -37,3 +37,6 @@ A personal archive of osu! skins.
 # [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
 ![](images/skinwithoutname.webp)
 
+# [2008 Default Skin](https://ihatealex.s-ul.eu/pEuOmEzR)
+![](images/2008default)
+
