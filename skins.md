@@ -1,6 +1,6 @@
 A personal archive of osu! skins.
 
-# [iHateAlex - Varv](https://mega.nz/file/qIcg0aRQ#NFy3OpxjAyMeheigoblhoTkRDrJi9Q-Akg4lQ4OiXcw)
+# [iHateAlex - Varv](https://github.com/ihatealex/ihatealex-osu/raw/main/skins/iHateAlex-Varv.osk)
 ![](images/aristia.webp)
 
 # [Khimchi - Freddie Benson](https://mega.nz/file/qIcg0aRQ#NFy3OpxjAyMeheigoblhoTkRDrJi9Q-Akg4lQ4OiXcw)
