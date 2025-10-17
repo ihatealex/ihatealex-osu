@@ -10,6 +10,9 @@ A personal archive of osu! skins.
 # [Khimchi - Freddie Benson](https://ihatealex.s-ul.eu/RmJrSRRI)
 ![](images/freddiebenson.webp)
 
+# [Khimchi - Selyu](https://ihatealex.s-ul.eu/dCGo9VCl)
+![](images/selyu.webp)
+
 # [C-3-ED - GreenTea](https://ihatealex.s-ul.eu/iNn2omV9)
 ![](images/greentea.webp)
 
@@ -33,3 +36,4 @@ A personal archive of osu! skins.
 
 # [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
 ![](images/skinwithoutname.webp)
+
