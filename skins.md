@@ -13,10 +13,10 @@ A personal archive of osu! skins.
 # [Khimchi - Selyu](https://ihatealex.s-ul.eu/dCGo9VCl)
 ![](images/selyu.webp)
 
-# [C-3-ED - GreenTea](https://ihatealex.s-ul.eu/iNn2omV9)
+# [GreenTea](https://ihatealex.s-ul.eu/iNn2omV9)
 ![](images/greentea.webp)
 
-# [nathanYOSHHAAA - Mai](https://ihatealex.s-ul.eu/HhTYCyH8)
+# [Mai](https://ihatealex.s-ul.eu/HhTYCyH8)
 ![](images/mai.webp)
 
 # [Cozy](https://ihatealex.s-ul.eu/uXVcduHd)
