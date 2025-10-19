@@ -37,6 +37,9 @@ A personal archive of osu! skins.
 # [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
 ![](images/skinwithoutname.webp)
 
+# [Toy](https://ihatealex.s-ul.eu/M92fKqZA)
+![](images/toy.webp)
+
 # [Rohulk 4.0](https://ihatealex.s-ul.eu/P6R7cGKd)
 ![](images/rohulk.webp)
 
