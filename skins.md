@@ -13,6 +13,9 @@ A personal archive of osu! skins.
 # [Khimchi - Selyu](https://ihatealex.s-ul.eu/dCGo9VCl)
 ![](images/selyu.webp)
 
+# [MonkoEdit](https://ihatealex.s-ul.eu/waz4g7x9)
+![](images/monkoedit.webp)
+
 # [GreenTea](https://ihatealex.s-ul.eu/0tS3XgMF)
 ![](images/greentea.webp)
 
