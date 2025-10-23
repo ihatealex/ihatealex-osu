@@ -40,6 +40,9 @@ A personal archive of osu! skins.
 # [azer8 midnight](https://ihatealex.s-ul.eu/KXlnO2YL)
 ![](images/midnightv8.webp)
 
+# [hey dt purple ryuk](https://ihatealex.s-ul.eu/WLnKTrzP)
+![](images/dtpurple.webp)
+
 # [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
 ![](images/skinwithoutname.webp)
 
