@@ -28,6 +28,9 @@ A personal archive of osu! skins.
 # [Plasmo](https://ihatealex.s-ul.eu/726STfBo)
 ![](images/plasmo.webp)
 
+# [Jace 6.25](https://ihatealex.s-ul.eu/vY7UqxrZ)
+![](images/jace.webp)
+
 # [azer -ite](https://ihatealex.s-ul.eu/CVvWuBb4)
 ![](images/azer-ite.webp)
 
