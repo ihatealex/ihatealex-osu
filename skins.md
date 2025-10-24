@@ -16,12 +16,6 @@ A personal archive of osu! skins.
 # [MonkoEdit](https://ihatealex.s-ul.eu/waz4g7x9)
 ![](images/monkoedit.webp)
 
-# [GreenTea](https://ihatealex.s-ul.eu/0tS3XgMF)
-![](images/greentea.webp)
-
-# [Mai](https://ihatealex.s-ul.eu/Oxmp608q)
-![](images/mai.webp)
-
 # [Cozy](https://ihatealex.s-ul.eu/BpRHsh1g)
 ![](images/cozy.webp)
 
@@ -30,6 +24,12 @@ A personal archive of osu! skins.
 
 # [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
 ![](images/skinwithoutname.webp)
+
+# [GreenTea](https://ihatealex.s-ul.eu/0tS3XgMF)
+![](images/greentea.webp)
+
+# [Mai](https://ihatealex.s-ul.eu/Oxmp608q)
+![](images/mai.webp)
 
 # [Jace 6.25](https://ihatealex.s-ul.eu/vY7UqxrZ)
 ![](images/jace.webp)
@@ -42,9 +42,6 @@ A personal archive of osu! skins.
 
 # [azer8 midnight](https://ihatealex.s-ul.eu/KXlnO2YL)
 ![](images/midnightv8.webp)
-
-# [hey dt purple ryuk](https://ihatealex.s-ul.eu/WLnKTrzP)
-![](images/dtpurple.webp)
 
 # [Toy](https://ihatealex.s-ul.eu/M92fKqZA)
 ![](images/toy.webp)
