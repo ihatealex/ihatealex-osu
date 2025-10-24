@@ -25,6 +25,12 @@ A personal archive of osu! skins.
 # [Neynda Remaster](https://ihatealex.s-ul.eu/cEZ77l14)
 ![](images/neynda.webp)
 
+# [hey dt purple Ryuk](https://ihatealex.s-ul.eu/WLnKTrzP)
+![](images/dtpurple.webp)
+
+# [mrekk 1.0 NM](https://ihatealex.s-ul.eu/mdNVcm3x)
+![](images/mrekkjace.webp)
+
 # [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
 ![](images/skinwithoutname.webp)
 
