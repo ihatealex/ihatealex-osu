@@ -22,6 +22,9 @@ A personal archive of osu! skins.
 # [Plasmo](https://ihatealex.s-ul.eu/726STfBo)
 ![](images/plasmo.webp)
 
+# [Neynda Remaster](https://ihatealex.s-ul.eu/cEZ77l14)
+![](images/neynda.webp)
+
 # [SKINWITHOUTNAME](https://ihatealex.s-ul.eu/fLnMBeO8)
 ![](images/skinwithoutname.webp)
 
