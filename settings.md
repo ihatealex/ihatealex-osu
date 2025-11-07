@@ -8,5 +8,5 @@ Settings
 * OpenTabletDriver Area: 90x50mm
 
 Tapping style
-* Ring index alternate
+* Ring index
 * Start streams/bursts with index
