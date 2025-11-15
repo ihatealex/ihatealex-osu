@@ -4,7 +4,7 @@ Setup
 * Tablet: Gaomon S620
 
 Settings
-* Wooting Settings: 1.8mm RT Off
+* Wooting Settings: 0.4mm RT On
 * OpenTabletDriver Area: 90x50mm
 
 Tapping style
